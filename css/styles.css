@@ -15,7 +15,6 @@ body {
     margin: auto;
     font-family: "Times New Roman";
     text-decoration-color: aliceblue;
-    box-sizing: border-box;
  
 }
 
@@ -42,7 +41,7 @@ a {
 }
 
 .one {
-background-image: url(/img/underwater-hotel.jpg);
+background-image: url(../img/1.jpg);
 height: 465px;
 width: 1440px;
 
